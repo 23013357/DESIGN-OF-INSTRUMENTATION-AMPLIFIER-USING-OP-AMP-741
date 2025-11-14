@@ -31,11 +31,15 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 <img width="658" height="213" alt="image" src="https://github.com/user-attachments/assets/52d8b211-2fe2-491c-b6b5-7381f6649628" />
 
 # TABULATION:
+![WhatsApp Image 2025-11-14 at 16 00 14_269aadff](https://github.com/user-attachments/assets/8666a9dd-5309-4a6b-88b1-14e7267079a1)
 
 # THEORETICAL CALCULATION:
+![WhatsApp Image 2025-11-14 at 16 00 27_2d1288bc](https://github.com/user-attachments/assets/54230bc2-74cd-4936-9096-4a3c055553e4)
 
 # GRAPH
+![WhatsApp Image 2025-11-14 at 16 00 43_16aca8ed](https://github.com/user-attachments/assets/cb42d011-cf84-4fa3-abae-e620580f5dfd)
 
 # RESULT
 
+![WhatsApp Image 2025-11-14 at 16 01 00_675ec639](https://github.com/user-attachments/assets/5ccbc7be-3e40-4857-8922-af520a90ce6a)
 
